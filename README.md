@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 ![PyTorch](https://img.shields.io/badge/pytorch-1.12.1-%237732a8)
 
-This repository contains the code for our paper [Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors](), which has been accepted by ICML 2025 as spotlight paper.
+This repository contains the code for our paper [Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors](), which has been accepted by ICLR 2025 as spotlight paper.
 
 ## Installation
 
